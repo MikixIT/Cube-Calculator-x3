@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+html, body{
+    height: 100vh;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background-image: linear-gradient(to bottom, #0a0b0b, #00453b, #008354, #42c253, #adff2f);
+}
+
+.app{
+    box-shadow: 4px 11px 19px 3px #000000;
+    padding: 40px;
+    background: black;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    font-weight: 800;
+    font-size: 34px;
+    margin: 10px;
+}
+
+p{
+    font-size: 28px;
+    text-align: center;
+    font-weight: 500;
+}
+
+button{
+    font-size: 23px;
+    padding: 3px;
+    color: greenyellow;
+    background-color: #000000;
+}
+
+input{
+    font-size: 20px;
+    text-align: center;
+}
+
+#print{
+    padding: 10px;
+    font-size: 30px;
+    font-weight: 700;
+    color: greenyellow;
+}
+
+.green{
+    color: greenyellow;
+}
