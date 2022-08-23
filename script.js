@@ -18,3 +18,4 @@ function buttonclicked(){
         printResult.innerHTML = cube(numberOne.value);
     }
 }
+ 
