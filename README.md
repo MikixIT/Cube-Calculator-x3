@@ -8,4 +8,4 @@ A web application for calc cube number!
 ![](gifproject.gif)
 
 # TRY IT!
--> [mikixit.github.io/Cube-Calculator-x3/](https://mikixit.github.io/Cube-Calculator-x3/)https://mikixit.github.io/Cube-Calculator-x3/
+->  https://mikixit.github.io/Cube-Calculator-x3/
