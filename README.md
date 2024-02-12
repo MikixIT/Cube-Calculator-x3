@@ -4,7 +4,7 @@ cube-number-calc. Vanilla JS Project
 ![](icon.ico) 
 <br>
 DESKTOP & MOBILE RESPONSIVE
-A web application for calc cube number!
+# A web application for calc cube number!
 
 # DESKTOP MODE
 ![](gifproject.gif)
