@@ -1,6 +1,6 @@
 # Cube Calculator x³ 
 cube-number-calc. Vanilla JS Project
-
+![](icon.ico) 
 DESKTOP & MOBILE RESPONSIVE
 A web application for calc cube number!
 
