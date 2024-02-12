@@ -8,4 +8,4 @@ A web application for calc cube number!
 ![](gifproject.gif)
 
 # TRY IT!
--> https://mikixit.github.io/cube-number-calc-jsvanilla/
+-> mikixit.github.io/Cube-Calculator-x3/
