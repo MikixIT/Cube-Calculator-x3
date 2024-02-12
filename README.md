@@ -1,4 +1,4 @@
-# cube-number-calc-jsvanilla
+# Cube Calculator x³ 
 cube-number-calc. Vanilla JS Project
 
 DESKTOP & MOBILE RESPONSIVE
