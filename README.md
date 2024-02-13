@@ -10,4 +10,4 @@ DESKTOP & MOBILE RESPONSIVE
 ![](gifproject.gif)
 
 # TRY IT!
-->  https://mikixit.github.io/Cube-Calculator-x3/
+-> https://mikixit.github.io/Cube-Calculator-x3/
